@@ -1,0 +1,8 @@
+{
+  "name": "show .desktop file",
+  "description": "Adds an entry to the Applications submenu to open .desktop file in the file explorer",
+  "uuid": "showdesktopfile@joeken.eu",
+  "shell-version": [
+    "43"
+  ]
+}
